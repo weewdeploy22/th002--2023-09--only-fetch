@@ -1,0 +1,8 @@
+node_modules
+.git
+package-lock.json
+
+local_logs
+
+**/.DS_Store
+**/__pycache__
